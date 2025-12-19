@@ -13,11 +13,11 @@
       <p align="left"><i>Desarrollador con mentalidad proactiva, orientado a objetivos y con experiencia en entornos dinámicos.</i></p>
       <br>
       <a href="https://www.linkedin.com/in/sergio-m%C3%A1rquez-durante-872867156/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" width="100%">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" width="50%">
       </a>
       <br><br>
       <a href="mailto:marquezsergiolfm@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" width="100%">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" width="50%">
       </a>
     </td>
     <td width="72%" valign="top" style="border: none;">
