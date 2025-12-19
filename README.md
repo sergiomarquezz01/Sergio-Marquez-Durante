@@ -29,7 +29,7 @@
       <p>Soy un desarrollador versátil con una base sólida en el ciclo de vida de desarrollo de software (SDLC), complementada con capacidades avanzadas en modelado predictivo, NLP y análisis exploratorio de datos (EDA).</p>
       <ul>
         <li>🔭 <b>Actualmente enfocado en</b>: Integración de modelos de ML en arquitecturas de microservicios.</li>
-        <li>🎓 <b>Formación Clave</b>: Java, Hadoop/Spark y Deep Learning.</li>
+        <li>🎓 <b>Formación Clave</b>: PPython, JS, React,Node,Java, Hadoop/Spark y Deep Learning.</li>
         <li>⚡ <b>Mi valor añadido</b>: No solo entreno modelos, sé cómo desplegarlos en aplicaciones funcionales.</li>
       </ul>
       <hr>
