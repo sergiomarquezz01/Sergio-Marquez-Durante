@@ -30,6 +30,13 @@ Soy un desarrollador versátil con una base sólida en el ciclo de vida de desar
 
 ---
 
+### **Desarrollo de Aplicaciones Multiplataforma (DAM)**
+| Categoría | Tecnologías |
+| :--- | :--- |
+| **Lenguajes Core** | ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white) |
+| **Mobile & Cross-Platform** | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white) ![Swift](https://img.shields.io/badge/-Swift-F05138?logo=swift&logoColor=white) |
+| **Bases de Datos & Backend** | ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white) ![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white) |
+| **Entornos (IDEs)** | ![AndroidStudio](https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=androidstudio&logoColor=white) ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?logo=intellijidea&logoColor=white) ![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white) |
 ## 📂 Proyectos Destacados
 
 ### [🤖 Classifier - NLP & Node.js](https://github.com/sergiomarquezz01/classifier)
